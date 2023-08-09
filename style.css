@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(195, 147, 240);
+}
+body {
+      font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+   background-color: blueviolet !important;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.card {
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background-color: rgb(174, 143, 204);
+}
